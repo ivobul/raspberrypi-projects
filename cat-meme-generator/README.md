@@ -1,4 +1,4 @@
-## Cat Meme Generator | Raspberry Pi Projects
+## Cat Meme Generator
 
 ### Link
 
