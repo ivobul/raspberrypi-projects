@@ -9,4 +9,4 @@
 
 ## Link
 
-- [Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript)
+[Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript)
