@@ -1,4 +1,4 @@
-## Sunrise CSS Animation | Raspberry Pi Projects
+## Sunrise CSS Animation
 
 ![preview](design/preview.gif)
 
