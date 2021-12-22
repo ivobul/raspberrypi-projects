@@ -2,4 +2,4 @@
 
 ### Link
 
-- [Guess The Colour](https://projects.raspberrypi.org/en/projects/cd-beginner-javascript-sushi)
+[Guess The Colour](https://projects.raspberrypi.org/en/projects/cd-beginner-javascript-sushi)
