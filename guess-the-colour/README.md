@@ -1,4 +1,4 @@
-## Guess The Colour | Raspberry Pi Projects
+## Guess The Colour
 
 ### Link
 
