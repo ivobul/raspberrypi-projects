@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #49B749;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.todo-wrapper {
+  background-color: #fff;
+  border-radius: 15px;
+  font-weight: 300;
+  margin: 50px auto 0;
+  padding: 30px;
+}
+
+.todo-wrapper p {
+  color: #757575;
+  font-style: italic;
+  margin: 5px 0;
+}
+
+.todo-wrapper ol {
+  margin: 20px 0;
+}
+
+.todo-wrapper ol li {
+  margin: 5px 0;
+  padding: 3px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  transition: all 0.5s ease-out;
+}
+
+.todo-wrapper ol li:nth-child(even) {
+  background: #ddd;
+}
+
+.todo-wrapper .completed {
+  color: #757575;
+  text-decoration: line-through;
+}
+
+.todo-wrapper .pretty-button {
+  border: none;
+  border-radius: 15px;
+  color: #fff;
+  display: inline-block;
+  font-size: small;
+  margin: 10px 2px;
+  padding: 5px 20px; 
+  text-align: center;
+}
+
+.todo-wrapper .pretty-button:hover {
+  cursor: pointer;
+  opacity: 0.75;
+}
+
+.todo-wrapper input {
+  padding: 3px 6px;
+}
+
+.todo-wrapper form {
+  display: inline-block;
+}
+
+.todo-wrapper #add-button {
+  background-color: #0093D5;
+}
+
+#control-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-around;
+}
+
+#control-wrapper #clear-completed-button {
+  background-color: #0093D5;
+}
+
+#control-wrapper #empty-button {
+  background-color: #9B1C20;
+}
+
+#control-wrapper #save-button {
+  background-color: #49B749;
+}
+
+@media screen and (min-width: 1400px) {
+  .todo-wrapper {
+    width: 50%;
+  }
+
+  .todo-wrapper input {
+    width: 600px;
+  }
+    
+}
+
+@media screen and (max-width: 1399px) and (min-width: 750px) {
+  .todo-wrapper {
+    width: 75%;
+  }
+
+  .todo-wrapper input {
+    width: 400px;
+  }
+}
