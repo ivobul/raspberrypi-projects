@@ -4,4 +4,4 @@
 
 ### Link
 
-- [Sunrise CSS Animation](https://projects.raspberrypi.org/en/projects/sunrise)
+[Sunrise CSS Animation](https://projects.raspberrypi.org/en/projects/sunrise)
