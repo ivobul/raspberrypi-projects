@@ -1,4 +1,4 @@
-## Talk Like a Pirate | Raspberry Pi Projects 
+## Talk Like a Pirate
 
 ### Link
 
