@@ -1,4 +1,4 @@
-## To-do List | Raspberry Pi Projects
+## To-do List
 
 ![preview](design/preview.png)
 
