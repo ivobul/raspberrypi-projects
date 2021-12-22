@@ -1,0 +1,11 @@
+#meme_text {
+  background-color: transparent;
+  color: #fff;
+  font-size: 2.5rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-shadow: black 0px 0px 10px;
+  position: absolute;
+  left: 15px;
+  top: 400px;
+  width: 600px;
+}
